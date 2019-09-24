@@ -12,6 +12,7 @@ public class Message {
 	}
 	public static void main(String[] args) {
 
+		//Calling static method
 		Message.show("Ashok Reddy");
 		Message msg = new Message();
 		msg.msg();
