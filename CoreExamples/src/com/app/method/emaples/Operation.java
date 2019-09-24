@@ -13,7 +13,7 @@ public class Operation {
 	} 
 	public static void main(String[] args) {
 
-		Operation.sub(30, 20);
+		//Operation.sub(30, 20);
 		Operation op = new Operation();
 		op.add(10, 20);
 	}
