@@ -1,4 +1,4 @@
-package com.app.method.collectionHashMapKeySetExample;
+package com.app.method.collection;
 
 import java.util.HashMap;
 import java.util.HashSet;
