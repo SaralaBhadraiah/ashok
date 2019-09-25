@@ -40,7 +40,7 @@ public class MapSorting {
 		map.clear();
 		map = new HashMap<>();
 		map.put("C", "c");
-		String val = map.getOrDefault("B", "Nah!");
+		String val = map.getOrDefault("B", "ashok!");
 		System.out.println(val); // prints Nah!
 
 		// Replace and Remove utilities
